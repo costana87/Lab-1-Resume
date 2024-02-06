@@ -1,7 +1,6 @@
 Nicholas A. Costa
 ========
 
-<img src="/Lab1/Other Logo.jpg" width='350' height='100'>
 
 ### Geography and GIS
 
@@ -24,5 +23,6 @@ Dockperson, 2019-2023
 * Experience in leading teams as well as being led
 * Ability to lift heavy objects
 
+---
 
-
+<img src="OtherLogo.jpg" >
